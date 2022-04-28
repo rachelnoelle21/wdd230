@@ -1,0 +1,29 @@
+body {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+header, nav, main, footer {
+    margin: 1.25rem auto;
+    max-width: 760px;
+}
+
+header, footer{
+    background-color: lightcoral;
+    color: #fff;
+    text-align: center;
+}
+
+header {
+    font-size: 25px;
+    padding: 1.5rem;
+}
+
+header img {
+    width: 100px;
+    float: left;
+    padding: 1rem;
+}
+
+
+#currentdate {color: rgba(255, 230, 129, 0.85);}

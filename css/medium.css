@@ -1,0 +1,9 @@
+@media only screen and (min-width: 32.5em) {
+    header, footer{
+        background-color: lightcoral);
+        border-radius: 10px;
+    }
+    header img {
+        float: left;
+    }
+}

@@ -6,10 +6,11 @@ body {
 header, nav, main, footer {
     margin: 1.25rem auto;
     max-width: 760px;
+    font-family: 'Poppins', sans-serif;
 }
 
 header, footer{
-    background-color: lightcoral;
+    background-color: lightsteelblue;
     color: #fff;
     text-align: center;
 }
@@ -21,7 +22,6 @@ header {
 
 header img {
     width: 100px;
-    float: left;
     padding: 1rem;
 }
 
